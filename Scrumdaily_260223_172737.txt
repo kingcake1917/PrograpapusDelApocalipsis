@@ -1,0 +1,12 @@
+- Que hice desde la ultima reunion diaria hasta ahora?
+E estado planeando el como aprender las funciones basicas del programa que vamos a usar y su lenguaje.
+
+Igualmente hicimos una lluvia de ideas en la cual pendamos en la app y la forma de monetizar que usaremos.
+
+- En que voy a estar trabajando desde ahora hasta la ultima reunion diaria?
+Decidimos el usar unity y c++ para poder hacer nuestro juego y asi publicarlo en una pagina como por ejemplo steam o itch.io.
+
+Ademas. En esta reunion decidimos el usar estas herramientas debido a la intuitividad y los conocomientos comparados a los otros lenguajes o APIs.
+
+- Que problemas o impedimentos tengo?
+Nuestro conocimiento en el lenguaje y en la api que vamos a usar, aparte del tiempo.
